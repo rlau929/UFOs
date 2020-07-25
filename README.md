@@ -1,4 +1,4 @@
 # UFOs
 The purpose of this assignment is to learn Java Script and gather data/information about UFO sightings and displaying it in a beautifully formatted website using html/css. Additionally, the data table can be filtered by date, city, state, county, and shape. The filtered data is handled by Java Script using the handleClick() function. There are new functions we've just learned in Java Script and some older functions we've used before. For example, new functions we learned are handleClick(), filterTable(), buildTable(), and d3.selectAll(). The function we've used before is the if-else statements. 
 
-After learning Java Script, I recommend using web scraping to gather data/information from other UFO sighting websites and compile it in a data table displaying it in html. Another recommendation is to filter additional parameters such as other regions besides United States.
+After learning Java Script, I recommend using web scraping to gather data/information from other UFO sighting websites and compile it in a data table displaying it in html. Another recommendation is to filter additional parameters such as durations.
